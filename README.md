@@ -1,8 +1,8 @@
 # Exercise pose dataset
 
-Pose data for classifying five bodyweight exercises by position. I used it while working on rep counting for [RapidRoutines](https://github.com/bgcalisthenics/rapidroutines).
+Pose data for classifying five bodyweight exercises by position. I used it while working on rep counting for [RapidRoutines](https://github.com/benjivolt/rapidroutines).
 
-There are 1,371 labeled poses. Each exercise has an up and a down position:
+There are 1,372 labeled poses. Each exercise has an up and a down position:
 
 | Exercise | Labels |
 | --- | --- |
